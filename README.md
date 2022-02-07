@@ -1,14 +1,12 @@
-### Hey Buddy!, I'm SasiVatsal! ?‘‹
+### Hey Buddy!, I'm SasiVatsal! ?â€˜â€¹
 
 <img title="" src="file:///C:/Users/sasiv/OneDrive/Desktop/doge.gif" alt="Coding" align="right" width="250">
 
-- ?”­ Iâ€™m currently working on developing my coding skills.
-- ?Œ± Iâ€™m currently learning more stuff on Machine Learning and Web development.
-- ?‘¯ Iâ€™m looking to collaborate on community projects!
-- ?“« How to reach me: geethikavsr@gmail.com.
-- âš¡ Fun fact: The only code I write without any errors : "Hello World".
-- ?“ I regularly write articles on [my blog](https://factsinfoquote.blogspot.com/).
-- ?“„ Know about my experiences [here](https://resume.io/r/MZVzh37Pm).
+- ?â€Â­ I'm currently working on developing my coding skills.
+- ?Å’Â± I'm currently learning more stuff on Machine Learning and Web development.
+- ?â€˜Â¯ I'm looking to collaborate on community projects!
+- ?â€œÂ« How to reach me: sasivatsal7122@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
