@@ -16,8 +16,9 @@
 <a href="https://www.instagram.com/sasivatsal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geethika_______" height="30" width="40" /></a>
 </p>
 ![](https://komarev.com/ghpvc/?username=sasivatsal7122&color=green)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethika02&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="geethika02" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=geethika02&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=geethika02&theme=dark" alt="geethika02" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasivatsal7122&show_icons=true&theme=radical)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasivatsal7122&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="geethika02" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sasivatsal7122&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sasivatsal7122&theme=dark" alt="geethika02" /></p>
