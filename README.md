@@ -16,7 +16,16 @@
 <a href="https://www.linkedin.com/in/sasi-vatsal-606195215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasivatal7122" height="30" width="40" /></a> &emsp;
 <a href="https://www.instagram.com/sasivatsal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasivatal" height="30" width="40" /></a>
 </p>
+</br></br>
+<h3>Oopss looks like my Python is hungry and lost it's way</h3>
+
+![snake gif](https://github.com/sasivatsal7122/sasivatsal7122/blob/output/github-contribution-grid-snake.svg)
+
 </br>
+<h1>GitHub Stats:</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sasivatsal7122&show_icons=true&theme=radical" alt="bixchh" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasivatsal7122&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="bixchh" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasivatsal7122&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="bixchh" /></p>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sasivatsal7122&theme=dark" alt="bixchh" /></p>
+
