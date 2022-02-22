@@ -19,7 +19,7 @@
 </br></br>
 <h3>Oopss looks like my Python is hungry and lost it's way</h3>
 
-![snake gif](https://github.com/sasivatsal7122/sasivatsal7122/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/sasivatsal7122/sasivatsal7122/output/github-contribution-grid-snake.svg" />
 
 </br>
 <h1>GitHub Stats:</h1>
