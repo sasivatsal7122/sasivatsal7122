@@ -1,4 +1,4 @@
-Hi 👋 My name is Hey I'm Sasi Vatsal
+Hi 👋 I'm Sasi Vatsal
 ====================================
 
 Python-Machine Learning-DataScience Developer
@@ -10,7 +10,9 @@ A Self- motivated, Inquisitive, energetic computer science engineering student s
 * ✉️  You can contact me at [sasivatsal7122@gmail.com](mailto:sasivatsal7122@gmail.com)
 * 🧠  I'm learning Machine Learning and Data Science
 * 🤝  I'm open to collaborating on Machine Learning, Deep Learning, Data visualization and Analytics
-* ⚡  📈 I'm currently working on developing my Logical Programming Skill.
+* 📈 I'm currently working on developing my Logical Programming Skill.
+* 🐍 An intermediate in Python,c++,js.
+* 🐼 You can arrest me for animal trafficking, coz i deal with pandas a lot.
 
 <a href="https://www.github.com/sasivatsal7122" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sasivatsal7122?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -45,10 +47,4 @@ src="https://img.shields.io/github/followers/sasivatsal7122?logo=github&style=fo
 
 <a href="https://github.com/sasivatsal7122" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasivatsal7122&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/sasivatsal7122/Go_Screen-CineMatrix-ML-MODEL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sasivatsal7122&repo=Go_Screen-CineMatrix-ML-MODEL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sasivatsal7122/Unique-NFT-generator-with-PILLOW" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sasivatsal7122&repo=Unique-NFT-generator-with-PILLOW&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/sasivatsal7122/Student-Marks-yonolesees-VIIT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sasivatsal7122&repo=Student-Marks-yonolesees-VIIT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sasivatsal7122/Rapidkode-package-pypi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sasivatsal7122&repo=Rapidkode-package-pypi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
