@@ -1,5 +1,6 @@
 <img src="assets/header.png">
 
+### python3 run my_introduction.py
 ```python
 class Student:
 
