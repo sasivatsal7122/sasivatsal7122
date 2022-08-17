@@ -1,5 +1,32 @@
 <a href="https://github.com/sasivatsal7122">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
 
+```python
+class Student:
+
+    def __init__(self):
+        self.name = "Satya Sasi Vatsal"
+        self.role = "Django Developer"
+        self.hobbies = ['sleeping','coding','eating']
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+        
+    def my_skills(self):
+        my_skills = { 
+        'languages': ['Python','C++','JavaScript'],
+        'Frameworks' : ['FastAPI', 'Dash', 'Django'],
+        'Python Library' : ['numpy', 'opencv', 'pandas', 'glob', 'requests', 'PIL'],
+        'Data Visualization' : ['Plotly', 'Seaborn', 'Matplotlib'],
+        'Hosting & Cloud' : ['Azure', 'Heroku', 'Vercel', 'Streamlit Cloud'],
+        'Other Skills': ['Git', 'Github','Docker']
+    }
+       return my_skills
+    
+me = Student()
+me.say_hi()
+print(f"Take a Look at my skills {me.my_skills()}")
+```
+
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
   <p align="center">
@@ -22,6 +49,7 @@
 
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
+
 
 Eyyyy!!! <br />
 - I am <b>Satya Sasi Vatsal</b> better known as 'Sasi'🕵🏼‍♂️ <br />
