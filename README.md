@@ -2,7 +2,7 @@
 
 ### python3 run my_introduction.py
 ```python
-class Student:
+class 3rd_yr_CSE_Student:
 
     def __init__(self):
         self.name = "Satya Sasi Vatsal"
@@ -23,7 +23,7 @@ class Student:
     }
        return my_skills
     
-me = Student()
+me = 3rd_yr_CSE_Student()
 me.say_hi()
 print(f"Take a Look at my skills {me.my_skills()}")
 ```
