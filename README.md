@@ -47,23 +47,23 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           🌱 I’m currently learning Django  
         </li>
         <li> 
-          👨🏻‍💻 Most of my projects are available on <a style='text-decoration:none;color:red' target='_blank' herf="https://github.com/sasivatsal7122?tab=repositories">GitHub</a>
+          👨🏻‍💻 Most of my projects are available on <a herf="https://github.com/sasivatsal7122?tab=repositories">GitHub</a>
         </li>
         <li>
           💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
         </li>
         <li>
-          📫 Feel free to contact me on <a style='text-decoration:none;color:red' target='_blank' herf="https://www.linkedin.com/in/sasi-vatsal-606195215/">LinkedIn</a>
+          📫 Feel free to contact me on <a herf="https://www.linkedin.com/in/sasi-vatsal-606195215/">LinkedIn</a>
         </li>
         <li>
           🧠 I'm learning Machine Learning and Data Science
         </li>
         <li>
-          📝 Checkout my <a style='text-decoration:none;color:red' target='_blank' herf="https://www.sasivatsal.herokuapp.com">Page</a>
+          📝 Checkout my <a herf="https://www.sasivatsal.herokuapp.com">Page</a>
         </li>
     </td>
     <td style="border: none;">
-      <img align="right" alt="GIF" src="https://giphy.com/embed/xThuWu82QD3pj4wvEQ" width="450vw"/>
+      <img align="right" alt="GIF" src="https://media1.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=790b761184ab84400e1cb4eefabca2bf83649c8520f19a73&rid=giphy.gif&ct=g" width="450vw"/>
     </td>
   </tr>
 </table>
