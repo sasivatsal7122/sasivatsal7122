@@ -155,16 +155,4 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <a href="https://github.com/sasivatsal7122?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<!-- last activity section -->
-
-## Activity Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-</p>
-
-<br>
-
-<!-- last refresh of readme section -->
-
-Last refresh: <b>Tuesday, August 16, 8:05 PM GMT-5</b>
 
