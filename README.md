@@ -24,12 +24,13 @@
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
 Eyyyy!!! <br />
-I am <b>Satya Sasi Vatsal</b> better known as 'Sasi'🕵🏼‍♂️ <br />A Self- motivated, Inquisitive, energetic computer science engineering student skilled in leadership, with a strong foundation in math, logic, and cross-platform coding with proven and tested engineering, management, marketing skills Seeking a challenging role at a reputed organization to utilize my skills that can contribute to the company’s growth as well as enhance my knowledge by exploring new things. <br />
-I am from <strong>India</strong><br />
-I'm a guy who love to develop new things 🖥️ <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
-Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
+- I am <b>Satya Sasi Vatsal</b> better known as 'Sasi'🕵🏼‍♂️ <br />
+  - A Self- motivated, Inquisitive, energetic computer science engineering student skilled in leadership, with a strong foundation in math, logic, and cross-platform coding with proven and tested engineering, management, marketing skills Seeking a challenging role at a reputed organization to utilize my skills that can contribute to the company’s growth as well as enhance my knowledge by exploring new things. <br />
+- I am from <strong>India</strong><br />
+- I'm a guy who love to develop new things 🖥️ <br />
+- So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
+- If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
+- Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
 
 ### 🧐 More About Me:
