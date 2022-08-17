@@ -1,4 +1,4 @@
-<a href="https://github.com/sasivatsal7122">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
+<img src="assets/header.png">
 
 ```python
 class Student:
