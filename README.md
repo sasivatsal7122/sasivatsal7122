@@ -1,54 +1,170 @@
-Hi 👋 I'm <a href="https://sasivatsal.herokuapp.com/">Sasi Vatsal</a>
-====================================
+<!-- 
+GIF SECTION
 
-Python-Machine Learning-DataScience Developer
----------------------------------------------
+If you wanna know how i made this gif
 
-#### A Self- motivated, Inquisitive, energetic computer science engineering student skilled in leadership, with a strong foundation in math, logic, and cross-platform coding with proven and tested engineering, management, marketing skills Seeking a challenging role at a reputed organization to utilize my skills that can contribute to the company’s growth as well as enhance my knowledge by exploring new things
+I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
+There i made and page with the GIF content, later i record my screen with OBS
+after that i converter the video from mp4 to gif
+ur welcome ;) 
+-->
+<a href="https://github.com/sasivatsal7122">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
 
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width=100% height=60%></img>
+<!-- Social icons section -->
+<h1 align="center"> Social Media: </h1>
+  <p align="center">
+    <a href="https://t.me/sasivatsal">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+    <a href="https://www.sasivatsal.herokuapp.com/">
+      <img src="https://img.shields.io/badge/WebPage-7cebf5?&style=for-the-badge&logo=data:image/png;base64,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&logoColor=black">
+    </a>
+    <a href="https://www.linkedin.com/in/sasi-vatsal-606195215/">
+      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
+    </a>
+    <a href="mailto:sasivatsal7122@gmail.com">
+      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+    </a>
+  </p>
+</h1>
 
+<hr>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [sasivatsal7122@gmail.com](mailto:sasivatsal7122@gmail.com)
-* 🧠  I'm learning Machine Learning and Data Science
-* 🤝  I'm open to collaborating on Machine Learning, Deep Learning, Data visualization and Analytics
-* 📈 I'm currently working on developing my Logical Programming Skill.
-* 🐍 An intermediate in Python,c++,js.
-* 🐼 You can arrest me for animal trafficking, coz i deal with pandas a lot.
+<!-- Description about me -->
+<h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-<a href="https://www.github.com/sasivatsal7122" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sasivatsal7122?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
+Eyyyy!!! <br />
+I am <b>Satya Sasi Vatsal</b> better known as 'Sasi'🕵🏼‍♂️ <br />A Self- motivated, Inquisitive, energetic computer science engineering student skilled in leadership, with a strong foundation in math, logic, and cross-platform coding with proven and tested engineering, management, marketing skills Seeking a challenging role at a reputed organization to utilize my skills that can contribute to the company’s growth as well as enhance my knowledge by exploring new things. <br />
+I am from <strong>India</strong><br />
+I'm a guy who love to develop new things 🖥️ <br />
+So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
+If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
+Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
+<br/><br/> 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+### 🧐 More About Me:
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <ul>
+        <li>
+          🔭 I’m currently studying at **VIIT**
+        </li>
+        <li>
+          🤝 I’m looking to collaborate on Open Source Projects
+        </li>
+        <li>
+          🌱 I’m currently learning Django  
+        </li>
+        <li>
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/sasivatsal7122?tab=repositories)
+        </li>
+        <li>
+          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+        </li>
+        <li>
+          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sasi-vatsal-606195215/)
+        </li>
+        <li>
+          🧠 I'm learning Machine Learning and Data Science
+        </li>
+        <li>
+          📝 Checkout my [Page](https://www.sasivatsal.herokuapp.com/) 
+        </li>
+    </td>
+    <td style="border: none;">
+      <img align="right" alt="GIF" src="https://giphy.com/embed/xThuWu82QD3pj4wvEQ" width="450vw"/>
+    </td>
+  </tr>
+</table>
+<br><br><br>
+
+<!-- languajes and skills section -->
+
+<h1 align="center"> Languages/Frameworks I'm good at: </h1>
+<p align="center">
+  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://devdocs.io/c/"><img alt="C" title="C" src="./assets/c.png" height="42"></a></code>
+  <code><a href="https://devdocs.io/cpp/"><img alt="C++" title="C++" src="./assets/cpp.png" height="42"></a></code>
+  <code><a href="https://dev.java/learn/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+  <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
+  <code><a href="https://www.djangoproject.com/"><img alt="Seaborn" title="Seaborn" src="./assets/seaborn.png" height="42"></a></code>
+  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
+  <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
+  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
+</p>
+<br>
+
+<h1 align="center"> Languages/Frameworks I'm learning: </h1>
+<p align="center">
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Keras" title="Keras" src="./assets/keras.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Tensorflow" title="Tensorflow" src="./assets/Tensorflow.png.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Sklearn" title="Sklearn" src="./assets/sklearn.png.png" height="42"></a></code>
+</p>
+<br>
+
+<h1 align="center"> Environments I work with: </h1>
+<p align="center">
+  <code><a href="https://www.archlinux.org/"><img alt="Ubuntu" title="Ubuntu" src="./assets/ubuntu.png" height="42"></a></code>
+  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
+  <code><a href="https://www.npmjs.com"><img alt="Heroku" title="Heroku" src="./assets/heroku.png" height="42"></a></code>
+  <code><a href="https://www.npmjs.com"><img alt="FireBase" title="FireBase" src="./assets/firebase.png" height="42"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Sublime Text" title="Sublime Text" src="./assets/sublime.png" height="42"></a></code>
+</p>
+<br>
+
+<!-- GitHub stats section -->
+
+## 📊 Github stats
+
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SasiVatsal's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sasivatsal7122&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SasiVatsal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasivatsal7122&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-### Socials
+<!-- Projects section -->
 
-<p align="left"> <a href="https://discord.com/users/hyperxxxblaze003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/sasivatsal7122" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sasivatsal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sasi-vatsal-606195215" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14281055/sasivatsal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/satyasasivatsal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## 📘 My top projects
 
-### Badges
+<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/sasivatsal7122/Go_Screen-CineMatrix-ML-MODEL"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sasivatsal7122&repo=Go_Screen-CineMatrix-ML-MODEL&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/sasivatsal7122/Student-Marks-yonolesees-VIIT"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sasivatsal7122&repo=Student-Marks-yonolesees-VIIT&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
+  <p align="center">&#8192;</p>
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/sasivatsal7122/HandGesture-Recognition-and-Live-Translator"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sasivatsal7122&repo=HandGesture-Recognition-and-Live-Translator&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/sasivatsal7122/OpenCheatSheet-Heroku"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=sasivatsal7122&repo=OpenCheatSheet-Heroku&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+  </p>
+</p>
 
-<b>My GitHub Stats</b>
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
 
-<a href="http://www.github.com/sasivatsal7122"><img src="https://github-readme-stats.vercel.app/api?username=sasivatsal7122&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sasivatsal7122's GitHub stats" /></a>
+<p align="left">
+  <a href="https://github.com/sasivatsal7122?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
-<a href="http://www.github.com/sasivatsal7122"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sasivatsal7122&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- last activity section -->
 
-<a href="http://www.github.com/sasivatsal7122"><img src="https://activity-graph.herokuapp.com/graph?username=sasivatsal7122&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## Activity Graph
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
+</p>
 
-<a href="https://github.com/sasivatsal7122" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasivatsal7122&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
 
+<!-- last refresh of readme section -->
+
+Last refresh: <b>Tuesday, August 16, 8:05 PM GMT-5</b>
 
