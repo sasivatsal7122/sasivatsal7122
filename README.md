@@ -47,19 +47,19 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           🌱 I’m currently learning Django  
         </li>
         <li> 
-          👨🏻‍💻 Most of my projects are available on <a herf="https://github.com/sasivatsal7122?tab=repositories">GitHub</a>
+          👨🏻‍💻 Most of my projects are available on <a href="https://github.com/sasivatsal7122?tab=repositories">GitHub</a>
         </li>
         <li>
           💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
         </li>
         <li>
-          📫 Feel free to contact me on <a herf="https://www.linkedin.com/in/sasi-vatsal-606195215/">LinkedIn</a>
+          📫 Feel free to contact me on <a href="https://www.linkedin.com/in/sasi-vatsal-606195215/">LinkedIn</a>
         </li>
         <li>
           🧠 I'm learning Machine Learning and Data Science
         </li>
         <li>
-          📝 Checkout my <a herf="https://www.sasivatsal.herokuapp.com">Page</a>
+          📝 Checkout my <a href="https://www.sasivatsal.herokuapp.com">Page</a>
         </li>
     </td>
     <td style="border: none;">
