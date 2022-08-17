@@ -92,8 +92,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <p align="center">
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
   <code><a href="https://www.java.com/en/"><img alt="Keras" title="Keras" src="./assets/keras.png" height="42"></a></code>
-  <code><a href="https://www.java.com/en/"><img alt="Tensorflow" title="Tensorflow" src="./assets/Tensorflow.png.png" height="42"></a></code>
-  <code><a href="https://www.java.com/en/"><img alt="Sklearn" title="Sklearn" src="./assets/sklearn.png.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Tensorflow" title="Tensorflow" src="./assets/Tensorflowpng.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Sklearn" title="Sklearn" src="./assets/sklearnpng.png" height="42"></a></code>
 </p>
 <br>
 
