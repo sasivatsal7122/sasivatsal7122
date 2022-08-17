@@ -47,7 +47,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
           🌱 I’m currently learning Django  
         </li>
         <li> 
-          👨🏻‍💻 Most of my projects are available on <a href="https://github.com/sasivatsal7122?tab=repositories">GitHub</a>
+          👨🏻‍💻 Most of my projects are available on <a style='text-decoration:none;color:red' target='_blank' href="https://github.com/sasivatsal7122?tab=repositories">GitHub</a>
         </li>
         <li>
           💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
